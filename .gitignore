@@ -1,5 +1,5 @@
 ../venv
-db.sqlite3
-settings.py
-migrations
-__cache__
+/db.sqlite3
+/mysite/settings.py
+/blog/migrations
+__pycache__
